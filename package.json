@@ -1,6 +1,6 @@
 {
   "name": "@opengovsg/mui-select-button",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A React button with select dropdown menu using Material-UI",
   "main": "dist/index.js",
   "files": [
@@ -30,13 +30,16 @@
     "url": "https://github.com/opengovsg/mui-select-button/issues"
   },
   "homepage": "https://github.com/opengovsg/mui-select-button#readme",
-  "dependencies": {
+  "dependencies": {},
+  "peerDependencies": {
     "@material-ui/core": "^4.8.2",
     "@material-ui/icons": "^4.5.1",
     "react": "^16.12.0",
     "react-dom": "^16.12.0"
   },
   "devDependencies": {
+    "@material-ui/core": "^4.8.2",
+    "@material-ui/icons": "^4.5.1",
     "@opengovsg/eslint-config-opengovsg": "^1.0.6",
     "@types/jest": "24.0.18",
     "@types/node": "12.7.2",
@@ -53,6 +56,8 @@
     "eslint-plugin-standard": "^3.1.0",
     "husky": "^3.0.9",
     "lint-staged": "^9.2.5",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
     "typescript": "^3.7.4"
   },
   "husky": {
