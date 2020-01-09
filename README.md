@@ -3,7 +3,7 @@
 A Material UI button that includes the dropdown menu found in Select. 
 Use this for a button with user-selectable behaviour
 
-A demo of this component can be found [here](https://codesandbox.io/s/damp-leaf-mug0l)
+A demo of this component can be found [here](https://codesandbox.io/s/mui-select-button-demo-mug0l)
 
 # Acknowledgements
 
