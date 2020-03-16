@@ -1,6 +1,6 @@
 {
   "name": "@opengovsg/mui-select-button",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A React button with select dropdown menu using Material-UI",
   "main": "dist/index.js",
   "files": [
