@@ -40,7 +40,7 @@
   "devDependencies": {
     "@material-ui/core": "4.9.5",
     "@material-ui/icons": "4.9.1",
-    "@opengovsg/eslint-config-opengovsg": "1.0.6",
+    "@opengovsg/eslint-config-opengovsg": "1.0.7",
     "@types/jest": "24.9.1",
     "@types/node": "12.7.2",
     "@types/react": "16.9.2",
